@@ -1,4 +1,3 @@
-
 ---
 title: An introduction to Single File Components in VueJS
 published: false
@@ -103,4 +102,4 @@ With React, the structure (html) and behaviour (javascript) are brought together
 
 ## Summary
 
-I hope that I've whet your appetite around giving Single File Templates a go, I've created a simple github repo so you can just clone it and run it.  If you've never used VueJS before, I strongly recommend also checking out the [documentation](https://vuejs.org/v2/guide) and there is also a free video course at [vueschool.io](https://vueschool.io/)
+I hope that I've whet your appetite around giving Single File Templates a go, I've created a simple github repo [vuejs-single-file-components-tutorial](https://github.com/sambenskin/vuejs-single-file-components-tutorial) so you can just clone it and run it.  If you've never used VueJS before, I strongly recommend also checking out the [documentation](https://vuejs.org/v2/guide) and there is also a free video course at [vueschool.io](https://vueschool.io/)
