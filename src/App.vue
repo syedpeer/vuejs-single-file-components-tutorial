@@ -1,28 +1,26 @@
-<template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld/>
-  </div>
+<template lang="pug">
+div
+  h1 Welcome!
+  p Hello, {{name}}
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
-
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
+module.exports = {
+  data: function () {
+    return {
+      name: 'Sam'
+    }
   }
 }
 </script>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+<style lang="sass" scoped>
+
+  $primary-colour: #33c689;
+  $letting-spacing: 3px;
+
+  p
+    text-align: center;
+    color: $primary-colour;
+    letter-spacing: $letting-spacing;
 </style>
