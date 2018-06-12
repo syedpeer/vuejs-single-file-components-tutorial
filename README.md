@@ -1,6 +1,6 @@
 ---
 title: An introduction to Single File Components in VueJS
-published: false
+published: true
 description: What are Single File Components in VueJS and how do you use them? This article will give you an introduction with some examples and why you should be using them
 tags: vuejs, javascript, beginners
 cover_image: https://images.unsplash.com/photo-1526374870839-e155464bb9b2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a34afeffc0b1dc2552ba82d61ea37204&auto=format&fit=crop&w=750
